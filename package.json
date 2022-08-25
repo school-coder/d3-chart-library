@@ -4,6 +4,7 @@
   "description": "Chart Library based on d3.js",
   "main": "index.js",
   "scripts": {
+    "start": "node src/index.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
