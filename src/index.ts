@@ -1,5 +1,5 @@
-export function writeToConsole(message) {
+function writeToConsole(message) {
     console.log(message);
 }
 
-module.exports = writeToConsole;
+export default writeToConsole;
